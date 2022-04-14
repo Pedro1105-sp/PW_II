@@ -1,0 +1,11 @@
+{
+    "mysql": {
+
+    },
+
+    "api": {
+        "porta": 8080,
+        "msg": "SITE EM EXECUÇÃO",
+        "caminho": "http://localhost8080"
+    }
+}
